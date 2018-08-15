@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>test</title>
+</head>
+<body>
+ <div style="width: 90vw;margin: auto;">
+  <!-- 图片你改下地址就能换了img/img1.jpg -->
+  < img style="width: 90vw" src="img/img1.jpg">
+  <!-- 文字内容一 -->
+  <p>
+   Mobile phone maps, navigation and online ride-hailing services make it easier than ever to get around town. At the same time, environmental monitoring is becoming more consistent and verifiable. This is reinforcing efforts to lower emissions and helping to make commitments to targets more manageable and realistic than ever.
+  </p >
+ </div>
+<div style="width: 90vw;margin: auto;">
+  <!-- 图片你改下地址就能换了img/img1.jpg -->
+  < img style="width: 100%" src="img/img1.jpg">
+  <!-- 文字内容二 -->
+  <p>
+   Mobile phone maps, navigation and online ride-hailing services make it easier than ever to get around town. At the same time, environmental monitoring is becoming more consistent and verifiable. This is reinforcing efforts to lower emissions and helping to make commitments to targets more manageable and realistic than ever.
+  </p >
+ </div>
+</body>
+</html>
